@@ -6,10 +6,10 @@
 2. [Project Motivation](#motivation)
 3. [File Structure](#structure)
 4. [Project Components](#project_componenets)
-5.
-7. [Plot Demos](#demo1)
-8. [Classification Demo](#demo2)
-9. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [Building the project](#Building)
+6. [Plot Demos](#demo1)
+7. [Classification Demo](#demo2)
+8. [Licensing, Authors, and Acknowledgements](#licensing)
 
 
 ## 1. Installations <a name="libraries"></a>
@@ -60,6 +60,10 @@ The data we use for the project was downloaded from [Figure 8](https://www.figur
 
 #### 4. Project Components<a name="project_componenets"></a>
 There are three components that I have used to complete  this project.
+
+Notebooks
+ETL Pipeline Prep.ipynb - jupyter notebook for data exploration and cleaning
+ML Pipeline Preparation - jupyter notebook for model selection and evaluation
 
 ##### 4.1 ETL Pipeline
 
@@ -118,16 +122,12 @@ Run the following command in the app's directory to run your web app:
 After that Go to http://0.0.0.0:3001/ or http://localhost:3001/
 
 
-##### 7. Plot Demos <a name="demo1"></a>
+
+#### 6. Plot Demos <a name="demo1"></a>
 ![Plot demos](https://github.com/sousablde/Disaster-Response-Pipeline/blob/master/Images/plots_demo.gif)
 
-##### 8. Classification Demo <a name="demo2"></a>
+##### 7. Classification Demo <a name="demo2"></a>
 ![Classification demos](https://github.com/sousablde/Disaster-Response-Pipeline/blob/master/Images/classification_demo.gif)
-
-
-Notebooks
-ETL Pipeline Prep.ipynb - jupyter notebook for data exploration and cleaning
-ML Pipeline Preparation - jupyter notebook for model selection and evaluation
 
 
 
