@@ -132,4 +132,4 @@ After that Go to http://0.0.0.0:3001/ or http://localhost:3001/
 
 
 ## 9. Licensing, Authors, Acknowledgements<a name="licensing"></a>
-I am greatly thankful for the incredible challenge provided by Udacity.
+I am greatly to Udacity and Figure8 for their efforts in bringing this project.I would like to also thank ![Beatriz Sousa](https://github.com/sousablde) for open srcing her work
